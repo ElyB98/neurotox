@@ -1,0 +1,105 @@
+category,side_effect_name
+seizure_convulsion,Clonic convulsion
+seizure_convulsion,Complex partial seizures
+seizure_convulsion,Convulsion
+seizure_convulsion,Convulsion neonatal
+seizure_convulsion,Drug withdrawal convulsions
+seizure_convulsion,Epilepsy
+seizure_convulsion,Febrile convulsion
+seizure_convulsion,Grand mal convulsion
+seizure_convulsion,Hypoglycaemic seizure
+seizure_convulsion,Myoclonic epilepsy
+seizure_convulsion,Partial seizures
+seizure_convulsion,Petit mal epilepsy
+seizure_convulsion,Status epilepticus
+seizure_convulsion,Sudden unexplained death in epilepsy
+seizure_convulsion,Tonic convulsion
+neuropathy_neuralgia,Application site paraesthesia
+neuropathy_neuralgia,Autonomic neuropathy
+neuropathy_neuralgia,Axonal neuropathy
+neuropathy_neuralgia,Demyelinating polyneuropathy
+neuropathy_neuralgia,Diabetic autonomic neuropathy
+neuropathy_neuralgia,Diabetic neuropathy
+neuropathy_neuralgia,Facial neuralgia
+neuropathy_neuralgia,Infusion site paraesthesia
+neuropathy_neuralgia,Injection site paraesthesia
+neuropathy_neuralgia,Ischaemic neuropathy
+neuropathy_neuralgia,Multifocal motor neuropathy
+neuropathy_neuralgia,Neuralgia
+neuropathy_neuralgia,Neuropathy peripheral
+neuropathy_neuralgia,Occipital neuralgia
+neuropathy_neuralgia,Optic ischaemic neuropathy
+neuropathy_neuralgia,Paraesthesia
+neuropathy_neuralgia,Paraesthesia oral
+neuropathy_neuralgia,Peripheral motor neuropathy
+neuropathy_neuralgia,Peripheral sensorimotor neuropathy
+neuropathy_neuralgia,Peripheral sensory neuropathy
+neuropathy_neuralgia,Polyneuropathy
+neuropathy_neuralgia,Post herpetic neuralgia
+neuropathy_neuralgia,Toxic neuropathy
+neuropathy_neuralgia,Trigeminal neuralgia
+motor_disorders,Abdominal rigidity
+motor_disorders,Action tremor
+motor_disorders,Akinesia
+motor_disorders,Ataxia
+motor_disorders,Bradykinesia
+motor_disorders,Cerebellar ataxia
+motor_disorders,Cogwheel rigidity
+motor_disorders,Dyskinesia
+motor_disorders,Dystonia
+motor_disorders,Essential tremor
+motor_disorders,Familial tremor
+motor_disorders,Muscle rigidity
+motor_disorders,Nuchal rigidity
+motor_disorders,Oromandibular dystonia
+motor_disorders,Parkinson's disease
+motor_disorders,Parkinsonian gait
+motor_disorders,Parkinsonian rest tremor
+motor_disorders,Parkinsonism
+motor_disorders,Tardive dyskinesia
+motor_disorders,Tremor
+motor_disorders,Vestibular ataxia
+cognitive,AIDS dementia complex
+cognitive,Amnesia
+cognitive,Anterograde amnesia
+cognitive,Cognitive disorder
+cognitive,Confusion postoperative
+cognitive,Confusional state
+cognitive,Delirium
+cognitive,Delirium tremens
+cognitive,Dementia
+cognitive,Dementia Alzheimer's type
+cognitive,Dementia with Lewy bodies
+cognitive,Memory impairment
+cognitive,Retrograde amnesia
+cognitive,Transient global amnesia
+cognitive,Vascular dementia
+coma_syncope,Coma
+coma_syncope,Coma hepatic
+coma_syncope,Diabetic coma
+coma_syncope,Diabetic hyperglycaemic coma
+coma_syncope,Diabetic hyperosmolar coma
+coma_syncope,Hypoglycaemic coma
+coma_syncope,Loss of consciousness
+coma_syncope,Syncope
+myoclonus,Myoclonic epilepsy
+myoclonus,Myoclonus
+encephalo_meningeal,Encephalitis
+encephalo_meningeal,Encephalitis cytomegalovirus
+encephalo_meningeal,Encephalitis viral
+encephalo_meningeal,Encephalopathy
+encephalo_meningeal,Hepatic encephalopathy
+encephalo_meningeal,Herpes simplex encephalitis
+encephalo_meningeal,Hypertensive encephalopathy
+encephalo_meningeal,Hypoxic-ischaemic encephalopathy
+encephalo_meningeal,Meningitis
+encephalo_meningeal,Meningitis aseptic
+encephalo_meningeal,Meningitis bacterial
+encephalo_meningeal,Meningitis chemical
+encephalo_meningeal,Meningitis cryptococcal
+encephalo_meningeal,Meningitis viral
+encephalo_meningeal,Metabolic encephalopathy
+encephalo_meningeal,Posterior reversible encephalopathy syndrome
+encephalo_meningeal,Toxic encephalopathy
+nystagmus,Nystagmus
+guillain_barre,Guillain-Barre syndrome

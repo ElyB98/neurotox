@@ -1,0 +1,22 @@
+name: neurotox
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - rdkit=2024.03.5
+  - pandas=2.2.2
+  - numpy=1.26.4
+  - scikit-learn=1.5.2
+  - xgboost=2.1.1
+  - lightgbm=4.5.0
+  - matplotlib=3.9.2
+  - shap=0.46.0
+  - imbalanced-learn=0.12.3
+  - pyyaml=6.0.2
+  - pyarrow=17.0.0
+  - jupyterlab=4.2.5
+  - ipykernel=6.29.5
+  - pip
+  - pip:
+      - chembl_webresource_client==0.10.9
+      - pubchempy==1.0.4
